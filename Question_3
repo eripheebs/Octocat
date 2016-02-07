@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is kind of like a parallel universe for two different timelines of code, with different commits. One might refer to the 3rd commit made and another to the 25th, but they exist simultaneously in git so you can pick which point in the timeline you want to view or edit. They can be merged.
