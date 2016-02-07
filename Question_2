@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for, in your own words
+The upstream remote is usually used when working on a clone of the upstream repository. It's used when using your own origin repository and you want to pull changes from the original repository, you do this by adding an upstream remote to pull from.
